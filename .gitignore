@@ -1,4 +1,5 @@
 *.zip
+*.ipynb
 .ipynb_checkpoints/*
 course_assets/
 .DS_Store
