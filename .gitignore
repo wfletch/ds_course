@@ -1,1 +1,3 @@
 *.zip
+course_assets/
+.DS_Store
